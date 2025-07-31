@@ -24,3 +24,5 @@ https://cdn.jsdelivr.net/gh/jquery/jquery@3.6.4/src/core.min.js
 
 // add / at the end to get a directory listing
 https://cdn.jsdelivr.net/gh/jquery/jquery/
+
+https://cdn.jsdelivr.net/gh/khonsu-development/cdn/khonsu%20website/reviews/anonymous-user.jpg
