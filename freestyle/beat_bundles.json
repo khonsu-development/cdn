@@ -1,0 +1,9 @@
+{
+  "cartTiers": [
+    { "tierProductId": "cart_bundle_3", "slots": 3, "sortOrder": 0 },
+    { "tierProductId": "cart_bundle_5", "slots": 5, "sortOrder": 1 },
+    { "tierProductId": "cart_bundle_10", "slots": 10, "sortOrder": 2 },
+    { "tierProductId": "cart_bundle_20", "slots": 20, "sortOrder": 3 },
+    { "tierProductId": "cart_bundle_50", "slots": 50, "sortOrder": 4 }
+  ]
+}
